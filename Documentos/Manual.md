@@ -131,3 +131,119 @@ Salas, L. (2021). Evaluación del rendimiento académico en trabajos colaborativ
 * Hasta 20 autores se escriben completos (Apellido, Inicial.).
 
 * Si hay más de 20, se colocan los primeros 19, seguidos de puntos suspensivos (...) y el último autor.
+
+# Herramientas digitales para el trabajo en equipo
+
+El uso de herramientas digitales permite a los equipos de trabajo planificarse, compartir documentos, hacer seguimiento de tareas y comunicarse de forma efectiva. A continuación se describen algunas de las más recomendadas para proyectos universitarios o profesionales.
+
+### Google Docs / Google Drive
+
+Funcionalidades principales 
+
+* Edición de documentos, hojas de cálculo y presentaciones en línea.
+
+* Guardado automático y en la nube.
+
+* Comentarios, sugerencias y chat en tiempo real.
+
+* Control de versiones y historial de cambios.
+
+* Almacenamiento compartido con carpetas organizadas.
+
+**Ventajas**
+
+* Gratuito y accesible desde cualquier navegador.
+* Permite edición colaborativa simultánea.
+* Integra otras herramientas como Google Meet, Calendar y Gmail.
+
+**Desventajas**
+
+* Requiere conexión a internet para trabajar en equipo.
+* Limitado en funciones avanzadas de diseño o edición compleja.
+
+**Ejemplo de uso académico**
+
+Un grupo de estudiantes redacta su informe final en Google Docs, mientras cada miembro trabaja en una sección distinta. El profesor puede revisar el avance y dejar comentarios directamente sobre el documento.
+
+### GitHub
+
+Funcionalidades principales:
+
+* Repositorios para almacenar archivos de código o documentación.
+
+* Control de versiones con Git.
+
+* Gestión de ramas, pull requests y revisiones.
+
+* Wiki, Issues y gestión de tareas.
+
+* Colaboración transparente y organizada entre múltiples usuarios.
+
+**Ventajas**
+
+* Ideal para trabajos técnicos y proyectos en equipo.
+* Permite rastrear cada cambio y revertir errores.
+* Compatible con Markdown, GitHub Pages y CI/CD.
+
+**Desventajas**
+
+* Curva de aprendizaje inicial si no se conoce Git.
+* Menos visual que otras herramientas para gestión de tareas.
+
+**Ejemplo de uso académico**
+
+Un equipo de estudiantes de informática desarrolla un proyecto de software y documenta sus buenas prácticas en un repositorio GitHub. Cada miembro trabaja desde su PC y sincroniza su avance mediante Git.
+
+###  Trello
+
+Funcionalidades principales:
+
+* Organización de tareas mediante tableros, listas y tarjetas.
+
+* Etiquetas, fechas límite, listas de verificación y comentarios.
+
+* Integración con Google Drive, Slack, etc.
+
+* Visualización tipo Kanban para gestión ágil de tareas.
+
+**Ventajas**
+
+* Visual y fácil de usar.
+* Excelente para planificar y dividir tareas.
+* Gratuito con funciones útiles.
+
+**Desventajas**
+
+* Limitado en funciones analíticas o complejas.
+* Puede volverse desorganizado si no se le da seguimiento.
+
+**Ejemplo de uso académico**
+
+Un equipo usa Trello para organizar su cronograma de entrega del trabajo final. Cada miembro se asigna tareas y se marca el avance en tiempo real.
+
+### Notion
+
+Funcionalidades principales:
+
+* Espacios de trabajo que combinan notas, bases de datos, calendarios y documentos.
+
+* Plantillas personalizables para gestión de proyectos.
+
+* Colaboración en tiempo real y comentarios.
+
+* Todo en un solo lugar: notas, archivos, tareas, enlaces, etc.
+
+**Ventajas**
+
+* Versátil, todo-en-uno y muy visual.
+* Ideal para documentación, agenda y planificación.
+* Sincronización en la nube, multiplataforma.
+
+**Desventajas**
+
+* Puede resultar abrumador al inicio por la cantidad de opciones.
+* Algunas funciones avanzadas están en versión paga.
+
+**Ejemplo de uso académico**
+
+Un grupo utiliza Notion para estructurar su proyecto: redactan notas de investigación, enlazan referencias, organizan el cronograma y asignan responsabilidades por sección.
