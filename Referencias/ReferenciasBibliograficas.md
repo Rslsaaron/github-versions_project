@@ -19,5 +19,6 @@
 - Purdue Online Writing Lab. (OWL). (2023). [Proofreading for Errors](https://owl.purdue.edu/owl/general_writing/academic_writing/proofreading.html).  
 - Microsoft. (2024). [Tips for proofing documents in Word](https://support.microsoft.com/en-us/office/tips-for-proofing-documents-in-word).  
 - Nielsen Norman Group. (2018). [Writing Style for Technical Content](https://www.nngroup.com/articles/writing-style-technical-content/).  
-- GitHub Docs. (2023). [Releases and versioning](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases).  
+- GitHub Docs. (2023). [Releases and versioning](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases).
+
 ---

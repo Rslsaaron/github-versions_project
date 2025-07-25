@@ -34,6 +34,38 @@ Este manual tiene como propósito ofrecer una guía básica y clara sobre el uso
 
 GitHub es hoy una herramienta clave para desarrollar proyectos organizados, distribuidos y en equipo, permitiendo el seguimiento de cambios, control de versiones, revisión de código, y coordinación del trabajo mediante tareas.
 
+## Objetivo Principal del Documento
+
+Este manual recopila buenas prácticas fundamentales para la realización de trabajos universitarios en grupo, con el fin de facilitar la organización, mejorar la productividad, y fomentar la colaboración efectiva entre los integrantes. A través de recomendaciones sencillas y aplicables, se abordan aspectos clave como la planificación, distribución de tareas, gestión del tiempo, uso adecuado de herramientas digitales, formatos académicos, normas de citación y la presentación final del trabajo.
+
+* Fomentar la organización grupal efectiva, promoviendo roles y responsabilidades claras dentro del equipo.
+
+* Establecer pautas para la planificación y gestión del tiempo, a fin de evitar improvisaciones y retrasos en la entrega.
+
+* Unificar criterios sobre el formato y estilo del trabajo, incluyendo redacción, estructura, y presentación visual.
+
+* Promover el uso correcto de normas de citación y referencias bibliográficas, garantizando la integridad académica.
+
+* Sugerir herramientas tecnológicas útiles para la colaboración, edición conjunta y seguimiento del progreso.
+
+* Orientar sobre la presentación oral o escrita del trabajo final, con consejos prácticos y recomendaciones visuales.
+
+### Público al que va dirigido
+
+Este manual está dirigido principalmente a estudiantes universitarios de cualquier carrera que necesiten desarrollar trabajos en equipo como parte de sus asignaturas. También puede ser útil para docentes que deseen orientar a sus estudiantes en metodologías colaborativas o para cualquier persona interesada en mejorar la organización y presentación de proyectos grupales.
+
+### Metodología de trabajo colaborativo
+
+El trabajo colaborativo se basa en la cooperación activa de todos los miembros del grupo, donde cada persona asume una función clara, participa en la toma de decisiones y contribuye con sus conocimientos y habilidades para alcanzar un objetivo común. Esta metodología se apoya en la comunicación constante, la planificación conjunta, el respeto por los tiempos y responsabilidades, y el uso de herramientas que permitan una organización efectiva del trabajo.
+
+### Herramientas utilizadas para su elaboración
+
+* GitHub: Plataforma que permite alojar, compartir y colaborar en proyectos. Aquí se publica el manual para que pueda ser consultado, editado o mejorado por otros usuarios.
+
+* Git: Sistema de control de versiones que permite llevar un seguimiento de los cambios realizados en el proyecto, facilitando el trabajo en equipo sin perder información importante.
+
+* Markdown: Lenguaje de marcado ligero utilizado para dar formato al contenido del manual (títulos, listas, enlaces, negritas, etc.), de forma sencilla y legible, tanto en editores de texto como en plataformas como GitHub.
+
 ---
 
 ## 2. ¿Qué es GitHub?
@@ -45,6 +77,123 @@ Con GitHub, los equipos pueden:
 - Rastrear cambios a lo largo del tiempo.
 - Proponer mejoras usando ramas y pull requests.
 - Gestionar tareas con issues y tableros de proyectos.
+
+
+# Herramientas digitales para el trabajo en equipo
+
+El uso de herramientas digitales permite a los equipos de trabajo planificarse, compartir documentos, hacer seguimiento de tareas y comunicarse de forma efectiva. A continuación se describen algunas de las más recomendadas para proyectos universitarios o profesionales.
+
+### Google Docs / Google Drive
+
+Funcionalidades principales 
+
+* Edición de documentos, hojas de cálculo y presentaciones en línea.
+
+* Guardado automático y en la nube.
+
+* Comentarios, sugerencias y chat en tiempo real.
+
+* Control de versiones y historial de cambios.
+
+* Almacenamiento compartido con carpetas organizadas.
+
+**Ventajas**
+
+* Gratuito y accesible desde cualquier navegador.
+* Permite edición colaborativa simultánea.
+* Integra otras herramientas como Google Meet, Calendar y Gmail.
+
+**Desventajas**
+
+* Requiere conexión a internet para trabajar en equipo.
+* Limitado en funciones avanzadas de diseño o edición compleja.
+
+**Ejemplo de uso académico**
+
+Un grupo de estudiantes redacta su informe final en Google Docs, mientras cada miembro trabaja en una sección distinta. El profesor puede revisar el avance y dejar comentarios directamente sobre el documento.
+
+### GitHub
+
+Funcionalidades principales:
+
+* Repositorios para almacenar archivos de código o documentación.
+
+* Control de versiones con Git.
+
+* Gestión de ramas, pull requests y revisiones.
+
+* Wiki, Issues y gestión de tareas.
+
+* Colaboración transparente y organizada entre múltiples usuarios.
+
+**Ventajas**
+
+* Ideal para trabajos técnicos y proyectos en equipo.
+* Permite rastrear cada cambio y revertir errores.
+* Compatible con Markdown, GitHub Pages y CI/CD.
+
+**Desventajas**
+
+* Curva de aprendizaje inicial si no se conoce Git.
+* Menos visual que otras herramientas para gestión de tareas.
+
+**Ejemplo de uso académico**
+
+Un equipo de estudiantes de informática desarrolla un proyecto de software y documenta sus buenas prácticas en un repositorio GitHub. Cada miembro trabaja desde su PC y sincroniza su avance mediante Git.
+
+###  Trello
+
+Funcionalidades principales:
+
+* Organización de tareas mediante tableros, listas y tarjetas.
+
+* Etiquetas, fechas límite, listas de verificación y comentarios.
+
+* Integración con Google Drive, Slack, etc.
+
+* Visualización tipo Kanban para gestión ágil de tareas.
+
+**Ventajas**
+
+* Visual y fácil de usar.
+* Excelente para planificar y dividir tareas.
+* Gratuito con funciones útiles.
+
+**Desventajas**
+
+* Limitado en funciones analíticas o complejas.
+* Puede volverse desorganizado si no se le da seguimiento.
+
+**Ejemplo de uso académico**
+
+Un equipo usa Trello para organizar su cronograma de entrega del trabajo final. Cada miembro se asigna tareas y se marca el avance en tiempo real.
+
+### Notion
+
+Funcionalidades principales:
+
+* Espacios de trabajo que combinan notas, bases de datos, calendarios y documentos.
+
+* Plantillas personalizables para gestión de proyectos.
+
+* Colaboración en tiempo real y comentarios.
+
+* Todo en un solo lugar: notas, archivos, tareas, enlaces, etc.
+
+**Ventajas**
+
+* Versátil, todo-en-uno y muy visual.
+* Ideal para documentación, agenda y planificación.
+* Sincronización en la nube, multiplataforma.
+
+**Desventajas**
+
+* Puede resultar abrumador al inicio por la cantidad de opciones.
+* Algunas funciones avanzadas están en versión paga.
+
+**Ejemplo de uso académico**
+
+Un grupo utiliza Notion para estructurar su proyecto: redactan notas de investigación, enlazan referencias, organizan el cronograma y asignan responsabilidades por sección.
 
 ---
 
