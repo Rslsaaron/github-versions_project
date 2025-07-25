@@ -247,3 +247,61 @@ Funcionalidades principales:
 **Ejemplo de uso académico**
 
 Un grupo utiliza Notion para estructurar su proyecto: redactan notas de investigación, enlazan referencias, organizan el cronograma y asignan responsabilidades por sección.
+
+# Buenas prácticas para escribir textos académicos
+
+Al elaborar trabajos universitarios, es fundamental cuidar la redacción para garantizar claridad, formalidad y coherencia. A continuación, se presentan algunas recomendaciones clave para lograr una escritura académica adecuada:
+
+**Uso correcto del lenguaje formal** 
+
+* Emplea un lenguaje objetivo, claro y sin exageraciones.
+
+* Evita expresiones personales como “yo creo”, “en mi opinión”, a menos que se trate de una reflexión solicitada.
+
+* Utiliza términos precisos y apropiados al área de estudio.
+
+* Sustituye palabras comunes por sinónimos más formales (por ejemplo, usar “analizar” en lugar de “ver”).
+
+**Evitar muletillas, coloquialismos y ambigüedades**
+
+* No uses expresiones repetitivas o muletillas como “o sea”, “este”, “bueno”, “entonces”.
+
+* Evita frases coloquiales o informales propias del lenguaje hablado.
+
+* Sé directo y específico, evita expresiones vagas como “cosas”, “algo”, “alguien”.
+
+**Coherencia y cohesión textual**
+
+* Asegúrate de que las ideas se conecten de manera lógica y fluida.
+
+* Cada párrafo debe tratar un solo tema o idea principal.
+
+* Utiliza referencias internas entre párrafos para mantener continuidad.
+
+**Revisión ortográfica y gramatical**
+
+* Revisa cuidadosamente tu texto antes de entregarlo. Usa herramientas como el corrector de Google Docs o Grammarly.
+
+* Cuida la acentuación, uso de comas, tildes y tiempos verbales.
+
+* Solicita a otro integrante del grupo que revise el texto final para detectar posibles errores que hayas pasado por alto.
+
+**Uso de conectores y estructura lógica de párrafos**
+
+1) Utiliza conectores para enlazar ideas dentro y entre párrafos. Algunos ejemplos útiles son:
+
+* De secuencia: luego, después, posteriormente.
+
+* De causa-efecto: por lo tanto, debido a, en consecuencia.
+
+* De contraste: sin embargo, no obstante, aunque.
+
+* De ejemplo: por ejemplo, como se muestra, tal como.
+
+2) Un párrafo académico bien estructurado debe tener:
+
+* Una idea principal clara al inicio.
+
+* Desarrollo y explicación en el cuerpo del párrafo.
+
+* Una oración de cierre o conclusión que refuerce el punto tratado.
